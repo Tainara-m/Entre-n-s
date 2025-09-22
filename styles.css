@@ -88,8 +88,6 @@
     .contact-us {
         gap: 8px;
     }
-    nav{
-        display:none;
 }
 
 /* Ajustes gerais para garantir flexibilidade */
@@ -587,4 +585,3 @@ footer {
     width: 100%;
     text-align: center;
 }
-
